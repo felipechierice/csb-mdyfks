@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://felipechierice.github.io/csb-mdyfks/static/css/main.2c381078.chunk.css",
+    "main.js": "https://felipechierice.github.io/csb-mdyfks/static/js/main.b5e65155.chunk.js",
+    "main.js.map": "https://felipechierice.github.io/csb-mdyfks/static/js/main.b5e65155.chunk.js.map",
+    "runtime-main.js": "https://felipechierice.github.io/csb-mdyfks/static/js/runtime-main.85801d61.js",
+    "runtime-main.js.map": "https://felipechierice.github.io/csb-mdyfks/static/js/runtime-main.85801d61.js.map",
+    "static/js/2.f6b290ca.chunk.js": "https://felipechierice.github.io/csb-mdyfks/static/js/2.f6b290ca.chunk.js",
+    "static/js/2.f6b290ca.chunk.js.map": "https://felipechierice.github.io/csb-mdyfks/static/js/2.f6b290ca.chunk.js.map",
+    "index.html": "https://felipechierice.github.io/csb-mdyfks/index.html",
+    "static/css/main.2c381078.chunk.css.map": "https://felipechierice.github.io/csb-mdyfks/static/css/main.2c381078.chunk.css.map",
+    "static/js/2.f6b290ca.chunk.js.LICENSE.txt": "https://felipechierice.github.io/csb-mdyfks/static/js/2.f6b290ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85801d61.js",
+    "static/js/2.f6b290ca.chunk.js",
+    "static/css/main.2c381078.chunk.css",
+    "static/js/main.b5e65155.chunk.js"
+  ]
+}
